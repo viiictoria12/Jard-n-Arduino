@@ -1,0 +1,20 @@
+
+Componentes:
+
+	Arduino MEGA 
+
+	Sensor de Humedad YL 69 
+
+	Sensor DTH-22 
+
+	Sensor de luz LDR 
+
+	Modulo Relé 
+
+	Bomba de agua Arduino 5V
+
+A tener en cuenta:
+
+	Se puede usar cualquier modelo de Arduino partiendo de un nano. 
+
+	El sensor Dht-22 puede reemplazarse por el Dht-11 que es de la misma gama de sensores. 		Claramente , dependiendo el modelo que se use se obtendrá una precisión diferente con 		respecto a la obtención de los valores a medir.

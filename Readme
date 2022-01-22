@@ -1,0 +1,25 @@
+Aclaraciones:
+
+En el esquema se reemplazó una bomba arduino por un motor, pero la conexión es la misma. 
+
+En la carpeta "Img" se muestra cómo quedó el proyecto y parte del proceso.
+
+En la carpeta "comp" se ven las imagenes de los componentes con sus nombres y algunas recomendaciones. 
+
+Es un proyecto totalmente adaptable, se puede implementar en Jardines, Macetas, Huertos. 
+Dependiendo de las dimensiones de la superficie, se necesitarán mayor o menor cantidad de sensores. 
+
+El esquema fue realizado en Fritzing, por eso su extensión es ".fzz".
+
+Te recomiendo probar todos los sensores por separado antes de comenzar con tu proyecto, así entenderas su funcionamiento y podrás ver si funcionan correctamente. 
+
+
+Dejo el link de un video que grabé mostrando cómo regaría:
+
+		https://youtu.be/5PKbKOtcGtQ
+		
+	
+	
+		
+		
+
